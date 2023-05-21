@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/vietnamese-alphabets/static/css/main.88510236.css",
+    "main.js": "/vietnamese-alphabets/static/js/main.a9539634.js",
+    "static/js/845.795d0b5b.chunk.js": "/vietnamese-alphabets/static/js/845.795d0b5b.chunk.js",
+    "static/js/787.dbfd2606.chunk.js": "/vietnamese-alphabets/static/js/787.dbfd2606.chunk.js",
+    "index.html": "/vietnamese-alphabets/index.html",
+    "main.88510236.css.map": "/vietnamese-alphabets/static/css/main.88510236.css.map",
+    "main.a9539634.js.map": "/vietnamese-alphabets/static/js/main.a9539634.js.map",
+    "845.795d0b5b.chunk.js.map": "/vietnamese-alphabets/static/js/845.795d0b5b.chunk.js.map",
+    "787.dbfd2606.chunk.js.map": "/vietnamese-alphabets/static/js/787.dbfd2606.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88510236.css",
+    "static/js/main.a9539634.js"
+  ]
+}
